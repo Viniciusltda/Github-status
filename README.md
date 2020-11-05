@@ -13,14 +13,14 @@
 ---
 
 # :page_with_curl: Table of Contents
-- [App Demonstration](https://github.com/Viniciusltda/Happy-App-Web#beginner-demonstra%C3%A7%C3%A3o-do-site)
-- [How to Run in Your Machine](https://github.com/Viniciusltda/Happy-App-Web#desktop_computer-como-rodar-na-sua-m%C3%A1quina)
-  - [Dependencies](https://github.com/Viniciusltda/Happy-App-Web#package-depend%C3%AAncias)
-  - [Intalling Node.js](https://github.com/Viniciusltda/Happy-App-Web#minidisc-instalando-o-nodejs)
-  - [Cloning the Repository](https://github.com/Viniciusltda/Happy-App-Web#printer-clonando-o-reposit%C3%B3rio)
-  - [Running the Application](https://github.com/Viniciusltda/Happy-App-Web#dvd-rodando-a-aplica%C3%A7%C3%A3o)
-- [Technologies Used](https://github.com/Viniciusltda/Happy-App-Web#atom_symbol-tecnologias-usadas)
-- [License](https://github.com/Viniciusltda/Happy-App-Web#scroll-licença)
+- [App Demonstration](https://github.com/Viniciusltda/Github-status#beginner-app-demonstration)
+- [How to Run in Your Machine](https://github.com/Viniciusltda/Github-status#desktop_computer-how-to-run-in-your-machine)
+  - [Dependencies](https://github.com/Viniciusltda/Github-status#package-dependencies)
+  - [Intalling Node.js](https://github.com/Viniciusltda/Github-status#minidisc-installing-nodejs)
+  - [Cloning the Repository](https://github.com/Viniciusltda/Github-status#printer-cloning-the-repository)
+  - [Running the Application](https://github.com/Viniciusltda/Github-status#dvd-running-the-application)
+- [Technologies Used](https://github.com/Viniciusltda/Github-status#atom_symbol-technologies-used)
+- [License](https://github.com/Viniciusltda/Github-status#atom_symbol-technologies-used)
 
 # :beginner: App Demonstration
 
@@ -91,4 +91,4 @@ The application will open automatically on http://localhost:3000.
 
 # :scroll: License
 
-This repository is under the [MIT](https://github.com/Viniciusltda/Happy-App-Web/blob/master/LICENSE) license.
+This repository is under the [MIT](https://github.com/Viniciusltda/Github-status/blob/master/LICENSE) license.
