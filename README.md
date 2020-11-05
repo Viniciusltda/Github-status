@@ -5,7 +5,7 @@
 <p align="center">
   <img align="center" src="https://img.shields.io/github/repo-size/Viniciusltda/Github-status?color=success&style=flat-square"></img>
   <img align="center" src="https://img.shields.io/github/last-commit/Viniciusltda/Github-status?color=success&style=flat-square"></img>
-  <img align="center" src="https://img.shields.io/github/repo-size/Viniciusltda/Github-status?color=success&style=flat-square"></img>
+  <img align="center" src="https://img.shields.io/github/license/Viniciusltda/Github-status?color=success&style=flat-square"></img>
   <img align="center" src="https://img.shields.io/github/stars/Viniciusltda/Github-status?color=success&logo=GitHub&style=flat-square"></img>
   
 </p>
