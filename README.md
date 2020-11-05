@@ -1,70 +1,94 @@
-# Getting Started with Create React App
+<h1 align="center">Github Status Page </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> <p align="center">A simple application that shows the Github Components Status</p>
 
-## Available Scripts
+<p align="center">
+  <img align="center" src="https://img.shields.io/github/repo-size/Viniciusltda/Github-status?color=success&style=flat-square"></img>
+  <img align="center" src="https://img.shields.io/github/last-commit/Viniciusltda/Github-status?color=success&style=flat-square"></img>
+  <img align="center" src="https://img.shields.io/github/repo-size/Viniciusltda/Github-status?color=success&style=flat-square"></img>
+  <img align="center" src="https://img.shields.io/github/stars/Viniciusltda/Github-status?color=success&logo=GitHub&style=flat-square"></img>
+  
+</p>
 
-In the project directory, you can run:
+---
 
-### `yarn start`
+# :page_with_curl: Table of Contents
+- [App Demonstration](https://github.com/Viniciusltda/Happy-App-Web#beginner-demonstra%C3%A7%C3%A3o-do-site)
+- [How to Run in Your Machine](https://github.com/Viniciusltda/Happy-App-Web#desktop_computer-como-rodar-na-sua-m%C3%A1quina)
+  - [Dependencies](https://github.com/Viniciusltda/Happy-App-Web#package-depend%C3%AAncias)
+  - [Intalling Node.js](https://github.com/Viniciusltda/Happy-App-Web#minidisc-instalando-o-nodejs)
+  - [Cloning the Repository](https://github.com/Viniciusltda/Happy-App-Web#printer-clonando-o-reposit%C3%B3rio)
+  - [Running the Application](https://github.com/Viniciusltda/Happy-App-Web#dvd-rodando-a-aplica%C3%A7%C3%A3o)
+- [Technologies Used](https://github.com/Viniciusltda/Happy-App-Web#atom_symbol-tecnologias-usadas)
+- [License](https://github.com/Viniciusltda/Happy-App-Web#scroll-licença)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# :beginner: App Demonstration
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<p align="center">
+<img height="500" src="https://imgur.com/6u9aWvh.png" /> <img src="https://imgur.com/i2dAyCS.png" />
+</p>
 
-### `yarn test`
+# :desktop_computer: How to Run in Your Machine
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This is a step-by-step tutorial of how you can run this application on your machine.
 
-### `yarn build`
+## :package: Dependencies
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+For the application to run correctly you will need [Node.js](https://nodejs.org/en/) installed on your machine.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## :minidisc: Installing Node.js
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+After clicking on the [Link](https://nodejs.org/en/) above, you'll be redirected to the Node.Js website.
+Download and insttal the "LTS" version:
 
-### `yarn eject`
+<img width="550" height="350" src="https://imgur.com/2wGoRoL.png" />
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+If you already have Node.Js installed, then, make sure that it is on the version 12.0 or above.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## :printer: Cloning the Repository
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+After installing Node.js, clone this [repository](https://github.com/Viniciusltda/Github-status) to your machine.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Copie the following:
+```bash
+# Choose a folder of your preference and type:
+$ git clone https://github.com/Viniciusltda/Github-status.git 
 
-## Learn More
+# The "$" symbols are mere representatives, don't copie them.
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+After copying, install the dependencies:
+```bash
+# If you're out of the folder, type:
+$ cd Github-status
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Install the dependencies:
+$ yarn install
 
-### Code Splitting
+# Or, if you don't have the Yarn package:
+$ npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```
 
-### Analyzing the Bundle Size
+## :dvd: Running the Application
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Now that you have everything set, it's time to run the application.
 
-### Making a Progressive Web App
+```bash
+# Initialize the App:
+$ yarn start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# Or, if you don't have the Yarn package:
+$ npm start
+```
 
-### Advanced Configuration
+The application will open automatically on http://localhost:3000.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# :atom_symbol: Technologies Used
 
-### Deployment
+![NodeJs](https://img.shields.io/twitter/url?label=NodeJS&logo=Node.js&style=for-the-badge&url=https%3A%2F%2Fnodejs.org)
+![React](https://img.shields.io/twitter/url?label=React&logo=React&style=for-the-badge&url=https%3A%2F%2Freactjs.org)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# :scroll: License
 
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This repository is under the [MIT](https://github.com/Viniciusltda/Happy-App-Web/blob/master/LICENSE) license.
